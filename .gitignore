@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+
+# Ignore raw image files
+data/journal-images/
+
