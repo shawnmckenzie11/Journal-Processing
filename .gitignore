@@ -4,3 +4,7 @@ Thumbs.db
 # Ignore raw image files
 data/journal-images/
 
+# Ignore local compiled almanacs/books
+output/
+
+

@@ -22,7 +22,8 @@ Journal-Processing/
 └── scripts/
     ├── rename_pages.py      # Chronologically renames pages by camera timestamp
     ├── ocr.js               # JXA helper that executes Apple's Vision OCR
-    └── batch_ocr.py         # Runs OCR in batch over a specific book
+    ├── batch_ocr.py         # Runs OCR in batch over a specific book
+    └── compile_book.py      # Standalone book/almanac compiler using metadata filters
 ```
 
 ---
@@ -63,7 +64,46 @@ Review the raw transcript at `data/book-2_raw_ocr.md` and clean up obvious spell
 
 ---
 
+## Almanac & Biography Compilation
+
+Your cleaned Markdown transcripts are embedded with standard **YAML Front Matter** headers on each page:
+```yaml
+---
+book: 1
+page: 1
+date: 2025-07-22
+location: Home
+topics: [Expression, Will, Self-discipline]
+people: [Emily, Pam, Nadia]
+music: []
+---
+```
+
+You can use the standalone compiler (`scripts/compile_book.py`) to instantly search, filter, and compile these entries into themed almanacs or biographies:
+
+- **Compile a themed almanac (e.g., Stoicism)**:
+  ```bash
+  python3 scripts/compile_book.py --topic Stoicism --output output/stoicism_almanac.md
+  ```
+- **Compile a timeline of thoughts about a person (e.g., Emily)**:
+  ```bash
+  python3 scripts/compile_book.py --person Emily --output output/emily_biography.md
+  ```
+- **Compile by date range**:
+  ```bash
+  python3 scripts/compile_book.py --start-date 2025-07-01 --end-date 2025-08-31 --output output/summer_2025.md
+  ```
+- **Compile comments regarding a musical composer**:
+  ```bash
+  python3 scripts/compile_book.py --music Beethoven --output output/beethoven_reflections.md
+  ```
+
+*This compiler dynamically parses all `*_cleaned_ocr.md` files in the `data/` directory, extracts matches, and builds a compiled Markdown document with a formatted title, table of contents, meta-data blockquotes, and chronological text.*
+
+---
+
 ## Technical Notes
 
 - **Git Storage**: Raw images are automatically excluded from commits via `.gitignore` to keep the repository extremely lightweight. Only the `.md` transcripts and project scripts are pushed to GitHub.
 - **OCR Quality**: The Vision framework has built-in `usesLanguageCorrection = true` and `recognitionLevel = .accurate` to optimize handwriting extraction on macOS.
+

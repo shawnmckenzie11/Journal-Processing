@@ -1,3 +1,12 @@
+---
+book: 1
+page: 1
+date: 2025-07-22
+location: Home
+topics: [Expression, Will, Self-discipline]
+people: [Emily, Pam, Nadia]
+music: []
+---
 ## Page 001 (page_001.jpg)
 
 No.
@@ -14,6 +23,15 @@ I would like to maintain a healthy routine of movement, learning, health, and in
 
 And what do we do when we don't have cures or remedies for how we feel? When there's little motivation to reach outside our comfort zone? How do we strengthen and develop the will?
 
+---
+book: 1
+page: 2
+date: 2025-07-23
+location: Haneda Airport
+topics: [Planning, Freedom, Travel]
+people: [Nadia]
+music: []
+---
 ## Page 002 (page_002.jpg)
 
 No.
@@ -33,6 +51,15 @@ I must do more and make do with less.
 - Be at peace without it and you will ready yourself for all futures.
 - Fasting of wants
 
+---
+book: 1
+page: 3
+date: 2025-07-24
+location: Haneda Airport
+topics: [Forgiveness, Classical Music, Music Storytelling]
+people: [Nadia]
+music: [Beethoven, Mozart, Chopin, Bach]
+---
 ## Page 003 (page_003.jpg)
 
 No.
@@ -51,6 +78,15 @@ Classical, Modern, Renaissance:
 - Nocturne (in C-sharp Minor, Chopin): Stops and goes like two songs, but more like two parts to the same story. I feel like I can verify there were stories behind every song - every composition. Has it taken me this long???
 - To understand musical storytelling, like how the vocal or more obvious lines, stories, or "voices" make sense to be identified, then I can see that the two voices in Bach's "Invention" #1 make a song by being in conversational rhythm (dialogue, back and forth, Q&A) for sections while during other sections they sort of "argue" with one another (both consistently talking over one another, in downstep rhythm together).
 
+---
+book: 1
+page: 4
+date: 2025-07-24
+location: Haneda Airport
+topics: [Classical Music, Mathematics]
+people: []
+music: [Bach]
+---
 ## Page 004 (page_004.jpg)
 
 No.
@@ -69,7 +105,15 @@ You can feel a lot of voices nicely come together, especially at the end.
 
 So if musical notes / patterns exhibit "evenness" then they may not be the sum of two primes (hands).
 
-
+---
+book: 1
+page: 5
+date: 2025-07-25
+location: Home
+topics: [Stoicism, Control, Desires, Attachments]
+people: [Nadia, Emily]
+music: []
+---
 ## Page 005 (page_005.jpg)
 
 The Enchiridion: The Manual
@@ -159,6 +203,15 @@ Sometimes it is difficult to see the changes in my dad at times, even when I'm a
 
 And when in a room, commit to listening, and bringing your ears to someone else's story. Be considerate.
 
+---
+book: 1
+page: 10
+date: 2025-07-29
+location: Home
+topics: [Duty, Stoicism, Rationality]
+people: []
+music: []
+---
 ## Page 010 (page_010.jpg)
 
 No.
@@ -174,6 +227,15 @@ The Stoics have very high standards. Epictetus lived a struggle and did a lot to
 
 A duty is something you have to choose. Who is perfect? Who am I to judge?
 
+---
+book: 1
+page: 11
+date: 2025-07-29
+location: Home
+topics: [Stoicism, Control, Planning]
+people: []
+music: []
+---
 ## Page 011 (page_011.jpg)
 
 No.
@@ -201,6 +263,15 @@ Step 3: Can anyone?
 
 Chapter 4: When planning something, mentally rehearse. Guide complete with calm composure: "I want to do X, but I also want to keep my will in line with nature." Do it with every act. That way, for if X isn't going to plan, you can know: "Well, that wasn't my only intention; I also wanted to keep my will in line with nature, which is impossible if nothing bad ever happens."
 
+---
+book: 1
+page: 12
+date: 2025-07-31
+location: Home
+topics: [Wisdom, Virtue, Eudaimonia]
+people: []
+music: []
+---
 ## Page 012 (page_012.jpg)
 
 No.
@@ -231,6 +302,15 @@ What constitutes Eudaimonia / flourishing? What is good?
 - Love with desires stripped away
 - Wisdom, hard to measure / define.
 
+---
+book: 1
+page: 13
+date: 2025-07-31
+location: Home
+topics: [Philosophy, Meaning, Love, Character]
+people: [Nadia]
+music: []
+---
 ## Page 013 (page_013.jpg)
 
 No.
@@ -252,6 +332,15 @@ Aspasia of Miletus favoured the art of love. If affection is purely physical, it
 
 It's more natural for love of the mind to be reciprocated than love of the body.
 
+---
+book: 1
+page: 14
+date: 2025-07-31
+location: Home
+topics: [Values, Self-control, Generosity]
+people: []
+music: []
+---
 ## Page 014 (page_014.jpg)
 
 No.
@@ -280,6 +369,15 @@ Evening:
 
 Is generosity surely a good? Can generosity exist without a recipient? An recipient? Does generosity always have an object? So could it be possible to be generous to someone who does ill?
 
+---
+book: 1
+page: 15
+date: 2025-08-01
+location: Edmonton
+topics: [Discipline, NFTs, Verification]
+people: [Chris]
+music: []
+---
 ## Page 015 (page_015.jpg)
 
 No.
@@ -297,6 +395,15 @@ Had a great time with Chris today. Thought about some cool stuff, also laughed a
 
 NFTs: If only they could be used for verification, authentication of scientific data for reproducible checks or as verification of deepfakes? Ultimately it's just an imaginary (mostly) marketed commodity, which can be exploited (cryptocoin, etc.). Not a good use of time or energy. I should find a Buddhist Zen book.
 
+---
+book: 1
+page: 16
+date: 2025-08-04
+location: Edmonton
+topics: [Parenting, Smoking, Habits, Self-knowledge]
+people: [Chris, Emily, Shawn]
+music: []
+---
 ## Page 016 (page_016.jpg)
 
 No.
@@ -310,6 +417,15 @@ Shawn got back from Edmonton today. He replaced drinks with smoking during his t
 
 At the same time, he has done a great job of not chewing his nails, and has recognized a few transient instances of desire for cheap/quick company, and has been better with not choosing to waste time on that. He thinks reading and reflecting on impressions and questioning payoffs is valuable. Before he can think Socratically, he has to begin to know himself deeply, as best he can, and this is part of the process.
 
+---
+book: 1
+page: 17
+date: 2025-08-05
+location: Home
+topics: [Socratic Method, Writing, Reflection]
+people: [Paul, Emily]
+music: []
+---
 ## Page 017 (page_017.jpg)
 
 No.
@@ -321,6 +437,15 @@ I just finished "How to Think Like Socrates". It was surprising, not at all what
 
 I liked the way it highlighted his way of thinking and dialoguing as a means of becoming more aware of yourself. Using ileism (referring to himself in the 3rd person) and writing down thoughts with intent (column technique, quoting for meta-cognitive thoughts, like narration) do seem to help model this Socratic method in a practical way, especially when I go back and read and reflect on it. There was a lot more history than I'd like / expected, but maybe it was necessary for the lessons to resonate.
 
+---
+book: 1
+page: 18
+date: 2025-08-08
+location: Home
+topics: [Relationships, Productivity, Solitude]
+people: [Nadia, Andrew, Alrashid]
+music: []
+---
 ## Page 018 (page_018.jpg)
 
 No.
@@ -330,6 +455,15 @@ I really miss Nadia. Since I've gotten back, no obvious reason. Going out these 
 
 Today (Friday) is Art Crawl but I have no interest in going out. It felt good to be productive all day today on the stairwell, not taking any breaks or even contemplating exercise. There's something satisfying about sticking to a job, especially as it nears completion, that leaves me with a good feeling everyday.
 
+---
+book: 1
+page: 19
+date: 2025-08-10
+location: Home
+topics: [Parenting, Dancing, Spontaneity, Virtue]
+people: [Rob Bovice, Nadia]
+music: []
+---
 ## Page 019 (page_019.jpg)
 
 No.
@@ -341,6 +475,15 @@ I did so much dancing. I felt so good, following the crowd, even though Rob didn
 
 A strong man's virtue generates positive energy waves but doesn't seek or welcome personal benefit directly. I loved the moments last night of dancing freely and moving independently.
 
+---
+book: 1
+page: 20
+date: 2025-08-11
+location: Home
+topics: [Renovations, Business, Charity]
+people: []
+music: []
+---
 ## Page 020 (page_020.jpg)
 
 No.
@@ -360,6 +503,15 @@ Aug 12, 2025
 
 I am fond of Emily and grateful for the opportunity to have thoughtful conversations with her. Today at dinner we talked about debates / arguing, and what good qualities are in those who partake. I tried to express the few...
 
+---
+book: 1
+page: 21
+date: 2025-08-13
+location: Home
+topics: [Conversations, Socratic Method, Recipes]
+people: [Emily]
+music: []
+---
 ## Page 021 (page_021.jpg)
 
 No.
@@ -378,6 +530,15 @@ Zucchini Recipes / Muffins
 - choc chunks, walnuts, cacao nibs
 Takes a long time at 350, didn't rise well.
 
+---
+book: 1
+page: 22
+date: 2025-08-14
+location: Home
+topics: [Debate, Religion, Philosophy, Reflection]
+people: [Shawn, Derek]
+music: []
+---
 ## Page 022 (page_022.jpg)
 
 No.
@@ -406,6 +567,15 @@ Had a good, entertaining talk with Shawn and Derek today. They discussed:
 - Love of consumption of information (knowledge?)
 - Journals: lame, but habit and persistence can lead to interesting insights.
 
+---
+book: 1
+page: 23
+date: 2025-08-14
+location: Home
+topics: [Parenting, Mental Health, Therapy]
+people: [Emily]
+music: []
+---
 ## Page 023 (page_023.jpg)
 
 No.
@@ -417,6 +587,15 @@ While we walked home, she said she understood it all, and just was a bit skeptic
 
 Check in next Thursday.
 
+---
+book: 1
+page: 24
+date: 2025-08-15
+location: Home
+topics: [Socratic Dialogue, General Inquiry, Action]
+people: [Derek]
+music: []
+---
 ## Page 024 (page_024.jpg)
 
 No.
@@ -428,6 +607,15 @@ More importantly, I have again taken away the benefit of questioning and not cla
 
 Reading is a recently appreciated activity of mine, but as my conversation with Derek highlighted - consuming without putting into action is of no real use (or digesting with 100% retention). But how can I take action on what I read and "learn"? Will Socratic questioning help me reveal opportunities for betterment in others' lives (e.g., therapy, informally as a friend?) with a measurable positive effect on the world? I have to discount any positive effect on myself unless it is accompanied by external effects.
 
+---
+book: 1
+page: 25
+date: 2025-08-16
+location: Home
+topics: [Reading List, Self-discipline, Humility]
+people: [Shawn, Nadia]
+music: []
+---
 ## Page 025 (page_025.jpg)
 
 No.
@@ -453,6 +641,15 @@ August 17, 2025
 
 Bright, warm day. Rapscallion with handsome Daren, Nadia. I appreciate more alone time. During the night, met a lot of different people...
 
+---
+book: 1
+page: 26
+date: 2025-08-17
+location: Home
+topics: [Relationships, Love, Communication]
+people: [Nadia, Emily]
+music: []
+---
 ## Page 026 (page_026.jpg)
 
 No.
@@ -464,6 +661,15 @@ I don't know how Nadia does it, heart and soul, sometimes it is hard for her liv
 
 What triggered my signal to "talk" to me? Was it more notable than when I kept Addendum: Finding her and hoping and texting? I failed to ask, I didn't engage with this signal...
 
+---
+book: 1
+page: 27
+date: 2025-08-19
+location: Hospital
+topics: [Perception, Action, Will, Family]
+people: [Pam, Aunt Pearl]
+music: []
+---
 ## Page 027 (page_027.jpg)
 
 No.
@@ -485,6 +691,15 @@ Will: Governs our attitude to things not in our control, e.g. death. Visiting my
 Debts & Lessons:
 To my Father: To laugh, to play. To work and finish what you start. To support those that you love in duty. He gave up his lifelong passion of playing in a band to be the supportive man of the family, while never giving up his love of music.
 
+---
+book: 1
+page: 28
+date: 2025-08-20
+location: Home
+topics: [Patience, Reflection, Sleep]
+people: [Emily, Shawn]
+music: []
+---
 ## Page 028 (page_028.jpg)
 
 No.
@@ -494,6 +709,15 @@ Reading "The Witch Haven" is an exercise in patience, commitment, and understand
 
 Sometimes it feels like my mind is empty, which I guess is a good thing. I thought I coded and read but I have no (more of a) desire to write. Shawn feels like he doesn't have / need anything to reflect on right now. Is that good? It should be, before bed.
 
+---
+book: 1
+page: 29
+date: 2025-08-21
+location: Home
+topics: [Parenting, Mental Health, Confidence, Relationships]
+people: [Emily, Nadia]
+music: []
+---
 ## Page 029 (page_029.jpg)
 
 No.
@@ -505,6 +729,15 @@ It's been one week since Emily met with the mental health doctor. Among the main
 
 Also, I really miss Nadia. It's weird that what I miss most about her are her mannerisms, smile, faces, thoughts, and touch. Not just a little, but deeply.
 
+---
+book: 1
+page: 30
+date: 2025-08-22
+location: Home
+topics: [Debts, Lessons, Self-reflection]
+people: [Andrea, Derek]
+music: []
+---
 ## Page 030 (page_030.jpg)
 
 No.
@@ -526,6 +759,15 @@ Things I think I know:
 
 Andrea - Not thoughtful, very little instructions written, agnostic about free will, mishearing, misremembering, leading on -> pushing away.
 
+---
+book: 1
+page: 31
+date: 2025-08-23
+location: Home
+topics: [Reconnecting, Family, Principled Behavior]
+people: [Dwayne, Dan, Shae, Spencer, Kristian]
+music: []
+---
 ## Page 031 (page_031.jpg)
 
 No.
@@ -540,6 +782,15 @@ Share some sodas and tragedies like everyone else. Can't pretend to know how she
 
 Thought for Socrates: long!!!
 
+---
+book: 1
+page: 32
+date: 2025-08-24
+location: Home
+topics: [Death, Suffering, Family, Principles]
+people: [Andrea, Derek, Nadia]
+music: []
+---
 ## Page 032 (page_032.jpg)
 
 No.
@@ -557,6 +808,15 @@ Stick to your principles:
 - Slow down and breathe.
 - Moderate indulging desires. Don't run from the inevitable. Discover strength to cope through experiences. Withstand, Reflect, Reintroduce.
 
+---
+book: 1
+page: 33
+date: 2025-08-25
+location: Home
+topics: [Learning, Wisdom, Action, Charity]
+people: [Shawn]
+music: []
+---
 ## Page 033 (page_033.jpg)
 
 No.
@@ -574,6 +834,15 @@ Very important. Learning can only take us so far. Knowledge is only worth someth
 - Desire indulgence
   - Creating false illusion that I'm actually making progress. What have I really given up?
 
+---
+book: 1
+page: 34
+date: 2025-08-26
+location: Home
+topics: [Friendship, Self-control, Listening]
+people: [Emily, Andreana]
+music: []
+---
 ## Page 034 (page_034.jpg)
 
 No.
@@ -588,6 +857,15 @@ I felt very controlled and intentional tonight. Despite the late hour and 6 drin
 - That's where Andreana works, I'll say hello, she's extremely nice, and Greek. And cute, but that's not the point, nor the desire.
 - In fact, I worked actively to not impose on her, despite our conversations being good. I'm happy in that I resisted standard urges to start conversations after most breaks of long silence, and by active listening (as a man shall) I learned...
 
+---
+book: 1
+page: 35
+date: 2025-08-27
+location: Home
+topics: [Observation, Listening, Moderate Indulgence]
+people: [Steph]
+music: []
+---
 ## Page 035 (page_035.jpg)
 
 No.
@@ -601,6 +879,15 @@ Steph (Farside) is very nice - Esponda Beer. Farside is a great change of pace f
 
 OBSERVE, LISTEN, UNDERSTAND VIA GOOD QUESTIONS. MODERATE INDULGENCE, KEEP IT STANDARD, DON'T IMPOSE.
 
+---
+book: 1
+page: 36
+date: 2025-08-29
+location: Home
+topics: [Simplicity, Nicomachean Ethics, Standards]
+people: [Areasha]
+music: []
+---
 ## Page 036 (page_036.jpg)
 
 No.
@@ -616,6 +903,15 @@ August 31, 2025
 
 I did not meet my standards of behaviour last night. I allowed someone else to persuade me and push me slightly beyond what I would have normally done (house party 3 am). Also, Areasha had a lot to drink and I didn't like the way she wasn't listening to me. I have a wonderful girlfriend (official partner) so I don't need this other extra drama in my life. My plan is to only hang out with Areasha before midnight, or otherwise not at all, which I'm moving closer toward. Also no Farside full superficial.
 
+---
+book: 1
+page: 37
+date: 2025-09-02
+location: Home
+topics: [Ethics, Habits, Parenting, Mental Health]
+people: [Emily]
+music: []
+---
 ## Page 037 (page_037.jpg)
 
 No.
@@ -629,6 +925,15 @@ We can only become just by doing just acts, only temperate by exercising tempera
 Emily:
 I feel bad for her. So much stress and anxiety over school this year, despite having seemed to make progress with blood pressure, dialysis, and more comfortable with food in public lately. We are going to try CBT / a therapist ASAP, no matter the cost. I don't know how long, but I'd like to do a year. If that doesn't help her, then we can try SSRIs.
 
+---
+book: 1
+page: 38
+date: 2025-09-03
+location: Home
+topics: [Parenting, Self-doubt, Love, Relationships]
+people: [Emily, Nadia]
+music: []
+---
 ## Page 038 (page_038.jpg)
 
 No.
@@ -640,6 +945,15 @@ Sept 4, 2025
 
 It was so nice to see Nadia's smile today. It warms my heart to see her feeling good. I thought I was so strong but these last few days have reminded me that I still have a lot of work to do on myself, and to know myself. Maybe there's some meaning in these ups & downs but I don't think I know what it is...
 
+---
+book: 1
+page: 39
+date: 2025-09-04
+location: Home
+topics: [Journaling, Reflection, Writing]
+people: []
+music: []
+---
 ## Page 039 (page_039.jpg)
 
 No.
@@ -650,6 +964,15 @@ I've written journal entries in here now for 34/44 days since July 22. My mind w
 2. The feeling - physically - of writing is peaceful and sometimes even feels artistic.
 There's some kind of joy, and I even appreciate looking back at some of the thoughts in certain mental categories / styles that have filled these pages.
 
+---
+book: 1
+page: 40
+date: 2025-09-04
+location: Home
+topics: [Meaning, Depression, Wisdom]
+people: []
+music: []
+---
 ## Page 040 (page_040.jpg)
 
 No.
@@ -659,6 +982,15 @@ DEPRESSION IS MORE ABOUT A LACK OF MEANING THAN A LACK OF PLEASURE.
 
 DEPRESSION IS MORE ABOUT A LACK OF MEANING THAN A LACK OF PLEASURE.
 
+---
+book: 1
+page: 41
+date: 2025-09-04
+location: Home
+topics: [Blind Spots, Mental Health, Perspective]
+people: [Emily, Nadia, Chris]
+music: []
+---
 ## Page 041 (page_041.jpg)
 
 Seeing Blind Spots
@@ -679,6 +1011,15 @@ I realized I was talking to a smiling, curious Emily yet feeling sad for her. I 
 
 Also remembering back to Chris, I argued how good I'd have it when I took time off work, yet here I was lamenting trivial...
 
+---
+book: 1
+page: 42
+date: 2025-09-04
+location: Home
+topics: [Socratic Wisdom, Resolve, Genuine Care]
+people: [Emily]
+music: []
+---
 ## Page 042 (page_042.jpg)
 
 No.
@@ -692,6 +1033,15 @@ It wasn't the words. Or the question. Not even so much something that could be o
 
 I will always have underlying cares about Emily because she is my only child, and that's just love. But these won't blind me or take hold of my disposition for any more than a day.
 
+---
+book: 1
+page: 43
+date: 2025-09-09
+location: Home
+topics: [Optimism, Meditation, Future]
+people: []
+music: []
+---
 ## Page 043 (page_043.jpg)
 
 No.
@@ -703,6 +1053,15 @@ Mainly (>50%) reflection in the moment and breathing. So, principles.
 
 It would be good to resume meditating once in a while in the mornings. Also, the video of Roman Yampolskiy (University of Louisville, AI Safety) being interviewed about his views of the future was bleak, although as is the case with much "doom" conflict, it is as much about how you digest and consume; so, it may be equally a reflection of the consumer / viewer's bias.
 
+---
+book: 1
+page: 44
+date: 2025-09-09
+location: Home
+topics: [Doctrine of the Mean, Virtues, Anger, Amiability]
+people: []
+music: []
+---
 ## Page 044 (page_044.jpg)
 
 No.
@@ -723,6 +1082,15 @@ Amiability (social virtue):
 - Excess: obsequiousness
 - Mean: friendliness / politeness
 
+---
+book: 1
+page: 45
+date: 2025-09-13
+location: Home
+topics: [Living, Renovations, Productivity]
+people: [Nadia]
+music: []
+---
 ## Page 045 (page_045.jpg)
 
 No.
@@ -734,6 +1102,15 @@ Pre-Supercrawl.
 
 I am so, so excited to finally see Nadia again. The gigging, the silliness, thoughtful conversations, the tickles, her sweet scent, and all her isms... I am always very fond of her.
 
+---
+book: 1
+page: 46
+date: 2025-09-13
+location: Home
+topics: [Relationships, Friendship, Passion]
+people: [Andrew, Elaine, Carl, Areasha, Steph, Claire, Kristian, Courtney]
+music: []
+---
 ## Page 046 (page_046.jpg)
 
 No.
@@ -743,6 +1120,15 @@ Sweetheart, I had such a fun night tonight. Not just fun, but honest and relaxin
 
 I've made a lot of friends here since you've been away - I hope I can discern which are genuine vs. which see me for something else... Carl, Areasha, Steph, and Andrew at Farside, those are some of the good ones. Claire at the beer hall hanging, and Kristian Lewis on our grounds. There were so many kind words spoken, and you were never far from my mind, or Elaine's, or Courtney's. You are my source, my passion, my principles, my practicality in this external world.
 
+---
+book: 1
+page: 47
+date: 2025-09-14
+location: Home
+topics: [Perspective, Friendliness, Boundaries, Self-discipline]
+people: [Mary-Ann, Ben, Areasha, Aleshia]
+music: []
+---
 ## Page 047 (page_047.jpg)
 
 No.
@@ -756,6 +1142,15 @@ At least 3 times on Tuesday, Shawn heard himself say to himself "I don't deserve
 1. Reduce indulgence in automatic...
 2. Talk through morally difficult choices, not promiscuity...
 
+---
+book: 1
+page: 48
+date: 2025-09-17
+location: Home
+topics: [Relationships, Magic, Wealth Schedule, Prudence]
+people: [Mary-Ann]
+music: []
+---
 ## Page 048 (page_048.jpg)
 
 No.
@@ -776,6 +1171,15 @@ Wealth Schedule:
 
 With Prudence, I pursue... freedom from the "pain" of being denied certain pleasures (pleasures that involve desire and pain, namely bodily ones) as a core interest.
 
+---
+book: 1
+page: 49
+date: 2025-09-18
+location: Home
+topics: [Temperance, Discipline, Home Reno]
+people: []
+music: []
+---
 ## Page 049 (page_049.jpg)
 
 No.
@@ -790,6 +1194,15 @@ Practice: Inhale, pull on stomach, squeeze buttock muscles, swallow saliva, x10,
 If carpet + sound padding cost < $3,500: Pay for install.
 Else: Buy saws & blade to cut edge (of stairs) - $360.
 
+---
+book: 1
+page: 50
+date: 2025-09-19
+location: Home
+topics: [Discipline, Indulgence, Friendship, Boundaries]
+people: [Emily, Areasha]
+music: []
+---
 ## Page 050 (page_050.jpg)
 
 No.
@@ -804,6 +1217,15 @@ Concentrate your indulgence to preoccupy a significant minority of your time. Mi
 Friendship & texting: I know she likes talking to me. When I considered trying to enjoy my looks while being humble in public, it didn't quite work through some of this.
 The realities: Emily's texting, Areasha's appreciation of me and her volatility, boundaries, consent, and relationship language.
 
+---
+book: 1
+page: 51
+date: 2025-09-20
+location: Home
+topics: [Social Indulgence, Parenting, Life, Time]
+people: [Emily]
+music: []
+---
 ## Page 051 (page_051.jpg)
 
 No.
@@ -818,6 +1240,15 @@ Emily made dinner today; it was so nice to see. She tried all new recipes too, a
 Rethinking Life & Time Spent:
 If I only have one life (and given the many worries of the long-term sustainability of mankind, and there aren't many generations left: 5-10), I should feel no rush to have Emily grow up. I will accept that she will often not feel too social or energetic. I have come to peace with the reality that she may not take in-person classes this year, and possibly next year. It has made my mood better, and I'm able to be a better father...
 
+---
+book: 1
+page: 52
+date: 2025-09-21
+location: Home
+topics: [Society, Ethics, Logical Argument, Virtue]
+people: [Mary-Ann]
+music: []
+---
 ## Page 052 (page_052.jpg)
 
 No.
@@ -831,6 +1262,15 @@ Sept 23, 2025
 
 In the third chapter of Nicomachean Ethics, Pleasure & the Limits of Business, I finally felt like I followed the system of logical argument in dealing with pleasure. I was just saying to Mary-Ann that of all the Stoic texts, this has been the hardest and slowest to finish. I may have finally caught a glimpse of the novelty of his process, sharing evidence and logical reasoning with empirical facts; a true scientist. Virtue has to be the peculiar function of a thing -> Humans must have a function peculiar to humans, must be activity of soul in accordance with reason: the virtuous mean itself.
 
+---
+book: 1
+page: 53
+date: 2025-09-24
+location: Home
+topics: [Socratic Inquiry, Stoic Principles, Charity]
+people: [Mary-Ann]
+music: []
+---
 ## Page 053 (page_053.jpg)
 
 No.
@@ -841,6 +1281,15 @@ I really appreciated talking to Mary-Ann, especially about Socratic inquiries, a
 January: Kamloops, Hamilton for 3 months!!
 Read Tappington's!!
 
+---
+book: 1
+page: 54
+date: 2025-10-01
+location: Tokyo
+topics: [Travel, Friendship, Love]
+people: [Nadia, Emily, Amanda, Emma, Tess]
+music: []
+---
 ## Page 054 (page_054.jpg)
 
 No.
@@ -850,6 +1299,15 @@ Finally head to Japan to see my cutie!!!
 
 Being on Durban street with the guys really helped me with a lot of tips about Tokyo, but I am ready to get there. Having gone out Friday, Saturday, Monday, and Wednesday, Durban street was a busy time, with a lot of drinking, singing, dancing, and goofing around. Meeting Emma and especially Amanda was great, and it has shown me that I can comfortably show my happiness and share my time with others without feeling any less strong about Nadia - in fact, these hangouts have only made me love Nadia more, given that her support and compassion are fundamental to me feeling at peace with everything (say and do with the girls). I likely won't see Emma again but I did tell Amanda I'd visit her in Minnesota in January. She really made my last day an extra adventure, inviting me to the whiskey tour with her and Tess, then sharing dinner with them, drinking wine, singing & dancing, all the while being chill and easygoing. And she gave Tess the heads-up that she'd likely be going home with me, so cute and honest.
 
+---
+book: 1
+page: 55
+date: 2025-10-02
+location: Tokyo
+topics: [Kant, Pure Reason, Travel, Expectations]
+people: [Nadia]
+music: []
+---
 ## Page 055 (page_055.jpg)
 
 No.
@@ -863,6 +1321,15 @@ Oct 2, 2025
 
 I'm finally in Japan! It's been a whirlwind, with the energy of Tokyo, the bullet train, etc., plus doing it all with Nadia around and in mind. I had many good moments but also a few chippy ones with Nadia, which I kindly forgot was normal. It seems, too, that I can let my thoughts get the best of me, and in this, seem to let basic, simple, traditionally fun things turn negative, e.g., our talk regarding the direction of our walk home. Then I get more in my head and become wearing down our patience due to unrealistic expectations. Remember to be present, kind, patient, and not get caught up in...
 
+---
+book: 1
+page: 56
+date: 2025-10-05
+location: Tokyo
+topics: [Routine, Gym, Stoicism, Mindfulness]
+people: [Nadia]
+music: []
+---
 ## Page 056 (page_056.jpg)
 
 No.
@@ -878,6 +1345,15 @@ Oct 6, 2025
 
 Nadia is such a cutie pie. It's her birthday tomorrow and she deserves to have a wonderful time. I just want her to feel special, but it's like a gift. I'm grateful that she thinks of me so much, and the kindness of her heart, like making me feel I deserve her time and money, making the most of it.
 
+---
+book: 1
+page: 57
+date: 2025-10-06
+location: Yatsugatake
+topics: [Love, Travel, Hiking]
+people: [Nadia, Satoshi, Helen]
+music: []
+---
 ## Page 057 (page_057.jpg)
 
 No.
@@ -893,6 +1369,15 @@ Sun, Oct 12, 2025
 
 Today we hiked Mount Akadake. It was a slower pace because we were with Satoshi and Masa but still fun, and we took a bit of time to stop and look at moss and birds and nature. It felt like a really enjoyable change of pace - literally a breath of fresh air. In the chalet I'm doing some journaling, meditating, and a lot of reading, which is also refreshing.
 
+---
+book: 1
+page: 58
+date: 2025-10-12
+location: Yatsugatake
+topics: [Travel, People, Motivation, Exercise]
+people: [Masa, Nadia]
+music: []
+---
 ## Page 058 (page_058.jpg)
 
 No.
@@ -908,6 +1393,15 @@ Oct 16, 2025
 
 Is there anything that I'm having difficulty with? Perhaps making decisions with an eye toward my long-term goals. I'm always shortsighted, and I know there are a lot of ways I can do better with routines and habits even when I do well in other areas. For instance, I've gone to the gym in the last two days and I've...
 
+---
+book: 1
+page: 59
+date: 2025-10-16
+location: Tokyo
+topics: [Long-term Goals, Routines, Health, Anxiety]
+people: [Nadia, Emily, Helen]
+music: []
+---
 ## Page 059 (page_059.jpg)
 
 No.
@@ -921,6 +1415,15 @@ Oct 17, 2025
 
 Some days it seems Emily can't shake her anxiety about life in general, and just doesn't feel well. I feel bad for her because it's been a long time since I've seen her truly happy. With her new SSRI medication, we're all hoping she simply feels better in the mornings and throughout the day, enough to feel emotions and get into hobbies again.
 
+---
+book: 1
+page: 60
+date: 2025-10-17
+location: Tokyo
+topics: [Mental Health, Support, Conversation, Spontaneity]
+people: [Emily, Pam, Nadia]
+music: []
+---
 ## Page 060 (page_060.jpg)
 
 No.
@@ -934,6 +1437,15 @@ Oct 18, 2025
 
 A good conversation with Nadia puts things in perspective. Yesterday she listened and gave me a big hug, which I pretty much appreciated. Today we discussed the valence of our current day-to-day way of living, which can easily be assessed with too narrow a view. I sure hope my smiles remain frequent, and my joy and youthful spontaneity naturally carry into my older age.
 
+---
+book: 1
+page: 61
+date: 2025-10-18
+location: Tokyo
+topics: [Relationships, Kindness, Gym, Journaling]
+people: [Nadia, Emily]
+music: []
+---
 ## Page 061 (page_061.jpg)
 
 No.
@@ -949,6 +1461,15 @@ Oct 21, 2025
 
 It felt good to do barbell squats at the gym today. Those are the kind of full-body exercises that serve me well, since it started my day off on a productive, positive note. Before writing tomorrow, I should read some of my previous entries to see my different mindstates and assess the trajectory of this journal.
 
+---
+book: 1
+page: 62
+date: 2025-10-22
+location: Nagoya
+topics: [Kant, Transcendental Idealism, Space and Time]
+people: []
+music: []
+---
 ## Page 062 (page_062.jpg)
 
 Kant (1724-1804)
@@ -972,6 +1493,15 @@ Transcendental Idealism:
 - They are nothing other than the subjective forms of human sensible intuition.
 - They are empirically real: "everything that can come before us externally as an object" is in both space & time, and our internal intuitions of ourselves are in time.
 
+---
+book: 1
+page: 63
+date: 2025-10-22
+location: Nagoya
+topics: [Transcendental Idealism, Quantum Observance, Epistemology]
+people: []
+music: []
+---
 ## Page 063 (page_063.jpg)
 
 No.
@@ -1000,6 +1530,15 @@ A priori concepts that our understanding uses to construct experience together w
 - 12 CATEGORIES
 - Self-consciousness = Apperception
 
+---
+book: 1
+page: 64
+date: 2025-10-23
+location: Kyoto
+topics: [Solo Trip, Shrines, Temples, Identity]
+people: [Nadia, Satoshi, Jun]
+music: []
+---
 ## Page 064 (page_064.jpg)
 
 No.
@@ -1015,6 +1554,15 @@ What an adventurous weekend this was. Friday was a relaxing night in, Sunday nig
 
 It made me wonder how much of how I act depends on knowing or judging someone?
 
+---
+book: 1
+page: 65
+date: 2025-10-28
+location: Nagoya
+topics: [Initiative, Habits, Roles, Teaching]
+people: [Taiki, Yuichi, Satoshi, Yuki]
+music: []
+---
 ## Page 065 (page_065.jpg)
 
 No.
@@ -1027,6 +1575,15 @@ I'm glad I've taken some initiative to go out on my own in Japan and develop a n
 1. Teacher:
 Benefits are that it keeps me speaking professionally, and working as a team. The actual process of teaching forces me to think in a structured way (ICS). It means a little bit to me as it requires dialogue and character.
 
+---
+book: 1
+page: 66
+date: 2025-10-28
+location: Nagoya
+topics: [Relationships, Parenting, Fatherhood, Openness]
+people: [Nadia]
+music: []
+---
 ## Page 066 (page_066.jpg)
 
 No.
@@ -1040,6 +1597,15 @@ I benefited by really considering how she feels, showing much more interest. I f
 3. Partner / Boyfriend:
 Because we're open and honest with each other, the benefits are obvious and come with all relationships. I want to show Nadia my appreciation, no drama.
 
+---
+book: 1
+page: 67
+date: 2025-10-29
+location: Nagoya
+topics: [Childhood, Labeling, High School, Travel]
+people: [Yuki]
+music: []
+---
 ## Page 067 (page_067.jpg)
 
 No.
@@ -1057,6 +1623,15 @@ Travel:
 - Tsu Station -> Home: 1 hr 45 min
 - Total travel / activity: 6 hr 30 min (Leave 10:30 am, home by 12:30 am)
 
+---
+book: 1
+page: 68
+date: 2025-10-29
+location: Nagoya
+topics: [Kant, Synthesis, Epistemic Humility, Self-portrait]
+people: [Shawn]
+music: []
+---
 ## Page 068 (page_068.jpg)
 
 No.
@@ -1073,6 +1648,15 @@ Self-portrait: "Shawn is a middle-aged man who likes to play, always up to have 
 
 What do they suggest about biases / blind spots? That I have a positivity bias - I knew this. Maybe add: often I hide what I really feel - I am agreeable to a fault, perhaps.
 
+---
+book: 1
+page: 69
+date: 2025-10-31
+location: Nagoya
+topics: [Rappers, Secrets, Openness, Relationships]
+people: [Nadia, Emily]
+music: []
+---
 ## Page 069 (page_069.jpg)
 
 No.
@@ -1095,6 +1679,15 @@ Tupac > Jay-Z, Nas, Kendrick, Rakim, J. Cole, Biggie.
 Secrets: "What would the people closest to me be most surprised to learn about me?" If I stopped keeping secrets - implying we all keep secrets.
 Most people know about my "openness" of relationship with Nadia, but if / when Emily learns it, I don't know if there's anything she'd learn about me as a result. It's not like I have multiple girlfriends or ever have regular non-friend girls over. I can't really think of any others. I feel like the matter is that I'm not keeping secrets. What about off-hand words I've said when drunk? Those aren't secrets and don't shed a light on me.
 
+---
+book: 1
+page: 70
+date: 2025-11-03
+location: Nagoya
+topics: [Frugality, Idealism, Negativity, Self-insecurity]
+people: [Emily, Pam, Nadia]
+music: []
+---
 ## Page 070 (page_070.jpg)
 
 No.
@@ -1106,6 +1699,15 @@ How do I see?
 I see life as an opportunity, and seem to strive for some form of idealism. I want to see the beauty in things with all their quirks and features. With Nadia, sometimes - more lately - I fixate on her apparent mood or response, and find myself assuming something negative about how she's seeing me. It's like I allow my mood and subsequent responses to be affected by things, without appreciating the presence and moment for its positives. The next time I notice responding quickly, negatively, or reactively, I will try to take a deep breath, maybe a box breathing exercise, and reflect on seeing the big picture outside the moment. What are the roots of my negativity in these moments?
 - Feeling like I'm not good enough or doing enough, so insecurity in me rather than considering the difficult time she may be having.
 
+---
+book: 1
+page: 71
+date: 2025-11-04
+location: Nagoya
+topics: [Uniqueness, Positivity, Childhood, Playfulness]
+people: [Pam, Andrea, Emily]
+music: []
+---
 ## Page 071 (page_071.jpg)
 
 No.
@@ -1120,6 +1722,15 @@ Are there destructive tendencies in my life that I sometimes mistake for virtuou
 What qualities I had as a child would I like to reclaim or emphasize? What did I know at an early age that I seem to have forgotten?
 - Having fun playing in the snow: building snowforts, sliding - things that I got to do again with Emily. Spontaneity of playfulness in general, especially outdoors. An open-mindedness to creative activities, and being in an environment with others that enabled me to try new activities.
 
+---
+book: 1
+page: 72
+date: 2025-11-05
+location: Nagoya
+topics: [Sensible Intuition, Categories, Kant]
+people: []
+music: []
+---
 ## Page 072 (page_072.jpg)
 
 No.
@@ -1138,6 +1749,15 @@ All sensible intuitions stand under the categories. These categories pre-suppose
 
 Critique of Kant: Trash, if you ask me. Tries to explain existence of ideas and...
 
+---
+book: 1
+page: 73
+date: 2025-11-06
+location: Nagoya
+topics: [Selective Disclosure, Dating, Honesty, Socratic Method]
+people: [Nadia]
+music: []
+---
 ## Page 073 (page_073.jpg)
 
 No.
@@ -1152,6 +1772,15 @@ Like in Mark Matousek's family example, I also "allow myself to tell lies" in ma
 
 If I am to move away from "allowing myself to tell lies" it means I would likely become more disagreeable, unless I carefully focus on only "speaking truth" with epistemic humility: taking time to replace my thoughts with questions that can be posed to generate a dialectic, not necessarily to change minds, per se, but to navigate the conversation to generate self-reflection.
 
+---
+book: 1
+page: 74
+date: 2025-11-11
+location: Nagoya
+topics: [Attention, Humility, Authenticity, Smartness]
+people: [Shawn]
+music: []
+---
 ## Page 074 (page_074.jpg)
 
 No.
@@ -1162,6 +1791,15 @@ I don't want attention for being selfish, self-aggrandizing, etc. I seem to want
 
 Maybe the attention I used to get in school for "being smart" left me feeling a bit like I lucked my way into what I've got, and maybe I'd forgotten that I've had to work intentionally at some things. I can be privileged with some health and natural talents, while still having to work hard prioritizing my time, setting goals and directing my attention to them, persisting - these are all important qualities that I've tried to embrace on top of "being smart". Doing all the work, revising my work to improve it to my standards, being mindful of how it can and will be perceived, not being satisfied with something below standards of what I'm capable of. The best thing I can do to combat or avoid attention-seeking...
 
+---
+book: 1
+page: 75
+date: 2025-11-12
+location: Nagoya
+topics: [Personal Growth, Creativity, Business Ideas]
+people: []
+music: []
+---
 ## Page 075 (page_075.jpg)
 
 No.
@@ -1178,6 +1816,15 @@ I would be more creative, from visual art to maybe writing - although I am a slo
 
 Our death is inevitable; there is no pause for this.
 
+---
+book: 1
+page: 76
+date: 2025-11-13
+location: Hamilton
+topics: [Birthday, Parenting, Acceptance, Family]
+people: [Cynthia, Pearl]
+music: []
+---
 ## Page 076 (page_076.jpg)
 
 No.
@@ -1189,6 +1836,15 @@ I see them continue to play cards, laugh, and be at peace "doing nothing" togeth
 
 I found out today that my Aunt Pearl passed away last week on Nov 8, 2025. Having seen her in her last months, she impressed me with her perspective on life & death, active with sharpness & perspective of her reality...
 
+---
+book: 1
+page: 77
+date: 2025-11-13
+location: Hamilton
+topics: [Family, Support, Sharpness, Lessons]
+people: [Emily, Pam]
+music: []
+---
 ## Page 077 (page_077.jpg)
 
 No.
