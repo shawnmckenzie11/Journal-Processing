@@ -12,7 +12,7 @@ Say less in the moment when gripped by the onset of feelings or constitutional c
 Current Thoughts & Feelings:
 I would like to maintain a healthy routine of movement, learning, health, and interactions. Be present for all who I am / love: Emily, Pam, Nadia. Listen and understand while being open to the ever-changing nature of life. Forgive Pam and extend to listen in person. Model to Emily patience and resilience in times of challenge.
 
-And what do we do when we don't have answers or remedies for how we feel? When there's little motivation to reach outside our comfort zone? How do we strengthen and develop the will?
+And what do we do when we don't have cures or remedies for how we feel? When there's little motivation to reach outside our comfort zone? How do we strengthen and develop the will?
 
 ## Page 002 (page_002.jpg)
 
@@ -20,7 +20,7 @@ No.
 Date: Jul 23, 2025
 Haneda Airport (Tokyo)
 
-Devoting time and energy to planning & thinking ahead is a very good thing. The trip from Nagoya back to Haneda Airport was smooth, knowing that I checked through on my IC card and having given myself enough time to find the right train / metro. In contrast, I had to write down anything, otherwise I really had no social contact in the last few hours. I do miss Nadia and our smooth adventures already.
+Devoting time and energy to planning & thinking ahead is a very good thing. The trip from Nagoya back to Haneda Airport was smooth, knowing that I checked through on my IC card and having given myself enough time to find the right train / metro. I've found it hard to write about anything since I've really had no social contact in the last few hours. I do miss Nadia and our smooth adventures already.
 
 Travelling on my own has been surprising in that it has reminded me of the freedom and independence that I possess. Of course, things can and will go sideways in the future, but this trip was a sound exercise in restoring how I can rely on myself successfully.
 
@@ -306,7 +306,7 @@ It was reassuring to talk with him about parenting and family stuff. Sometimes w
 
 August 4, 2025
 
-Shawn got back from Edmonton today. He replaced vaping with smoking during his time with Chris, which is something he didn't at all anticipate doing. The night he got back today, he intended to finish a stand-up and smoke, but he wasn't feeling the comedy special so shut it off without finishing. Shawn should be more intentional about when to smoke, leaving most nights to have a clear mind.
+Shawn got back from Edmonton today. He replaced drinks with smoking during his time with Chris, which is something he didn't at all anticipate doing. The night he got back today, he intended to finish a stand-up and smoke, but he wasn't feeling the comedy special so shut it off without finishing. Shawn should be more intentional about when to smoke, leaving most nights to have a clear mind.
 
 At the same time, he has done a great job of not chewing his nails, and has recognized a few transient instances of desire for cheap/quick company, and has been better with not choosing to waste time on that. He thinks reading and reflecting on impressions and questioning payoffs is valuable. Before he can think Socratically, he has to begin to know himself deeply, as best he can, and this is part of the process.
 
@@ -533,7 +533,7 @@ Date: Aug 23, 2025
 
 Cynthia's birthday was a great opportunity to reconnect with Dwayne, Gie, Sharon, Dan, Shae (Festa), Spencer, Kristian, and many others. Sharing standards on paths of practice, habits of your family.
 
-Dwayne was the happiest to see him, in a chilly and yet joyous time. Johnny showed flirtatiousness without arguments, as well as prudence and principled behavior. Dan was quiet but with commitment to practice, or otherwise in a devoted role, paying knowing that asking or conveying...
+Dwayne was the happiest to see him, in a chilly and yet joyous time. Johnny showed flirtatiousness without aggression, as well as patience and principled behaviour. Dan was quiet but with commitment to practice, or otherwise in a devoted role, paying knowing that asking or conveying...
 
 Share some sodas and tragedies like everyone else. Can't pretend to know how she feels.
 - Beliefs/merit: Shawn needs to do more listening, speak after others, and keep his thoughts to himself.
@@ -585,7 +585,7 @@ Emily really loves this story of friendship, a better understanding of her after
 Wednesday, Aug 27, 2025
 
 I felt very controlled and intentional tonight. Despite the late hour and 6 drinks.
-- Donna: I'll say hello, she's extremely nice, and Greek. And cute, but that's not the point, nor the desire.
+- That's where Andreana works, I'll say hello, she's extremely nice, and Greek. And cute, but that's not the point, nor the desire.
 - In fact, I worked actively to not impose on her, despite our conversations being good. I'm happy in that I resisted standard urges to start conversations after most breaks of long silence, and by active listening (as a man shall) I learned...
 
 ## Page 035 (page_035.jpg)
@@ -730,7 +730,7 @@ Date: Sept 13, 2025
 
 It's been unusual to not work and just live. Spending money I've saved, doing home renovations, not really checking my bank account. I feel like I've done a good job of really sticking with my plans and being purposeful & productive. I finished the stairwell with railing, then the concrete back landing, including paint. I've also touched up and refinished the front entrance, and am on my way to finishing the front yard with mulch and plants. I have 2 weeks left and it's still nice weather, so maybe my next job should be the entrance doors / doorways? I want to save money and do it myself but I'm not that experienced in door installation. I also need to paint the front railing.
 
-Pre-suer Grand.
+Pre-Supercrawl.
 
 I am so, so excited to finally see Nadia again. The gigging, the silliness, thoughtful conversations, the tickles, her sweet scent, and all her isms... I am always very fond of her.
 
@@ -752,7 +752,7 @@ I gained a little perspective lately, seeing what girls deal with in times of gu
 
 Also, Areasha was literally drinking & crying in front of me, which really bothered me. I've already expressed how I felt about it, so this was the last straw. Today I told her we'd just be platonic friends, as I don't want this in my life. The conversation was as smooth as could be, considering she called me with questions.
 
-At least 3 times on Tuesday, Shawn heard himself say to himself "I don't deserve..." He was obviously being very hard on himself. Shawn finds the practice or "doing right" by the community, not giving in to self-pleasure (everything but hugging) is:
+At least 3 times on Tuesday, Shawn heard himself say to himself "I don't deserve..." He was obviously being very hard on himself. By committing to giving up sex with Aleshia (everything but hugging) I'll:
 1. Reduce indulgence in automatic...
 2. Talk through morally difficult choices, not promiscuity...
 
@@ -848,7 +848,7 @@ Date: Oct 1, 2025
 
 Finally head to Japan to see my cutie!!!
 
-Being on Durban street with the guys really helped me with a lot of tips about Tokyo, but I am ready to get there. Having gone out Friday, Saturday, Monday, and Wednesday, Durban street was a busy time, with a lot of drinking, singing, dancing, and goofing around. Nadia's, Emily's, and especially Amanda's support was great, and it has shown me that I can comfortably show my happiness and share my time with others without feeling any less strong about Nadia - in fact, these hangouts have only made me love Nadia more, given that her support and compassion are fundamental to me feeling at peace with everything (say and do with the girls). I likely won't see Emma again but I did tell Amanda I'd visit her in Minnesota in January. She really made my last day an extra adventure, inviting me to the whiskey tour with her and Tess, then sharing dinner with them, drinking wine, singing & dancing, all the while being chill and easygoing. And she gave Tess the heads-up that she'd likely be going home with me, so cute and honest.
+Being on Durban street with the guys really helped me with a lot of tips about Tokyo, but I am ready to get there. Having gone out Friday, Saturday, Monday, and Wednesday, Durban street was a busy time, with a lot of drinking, singing, dancing, and goofing around. Meeting Emma and especially Amanda was great, and it has shown me that I can comfortably show my happiness and share my time with others without feeling any less strong about Nadia - in fact, these hangouts have only made me love Nadia more, given that her support and compassion are fundamental to me feeling at peace with everything (say and do with the girls). I likely won't see Emma again but I did tell Amanda I'd visit her in Minnesota in January. She really made my last day an extra adventure, inviting me to the whiskey tour with her and Tess, then sharing dinner with them, drinking wine, singing & dancing, all the while being chill and easygoing. And she gave Tess the heads-up that she'd likely be going home with me, so cute and honest.
 
 ## Page 055 (page_055.jpg)
 
