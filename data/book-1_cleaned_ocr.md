@@ -5,7 +5,7 @@ date: 2025-07-22
 location: Home
 topics: [Expression, Will, Self-discipline]
 people: [Emily, Pam, Nadia]
-music: []
+source: original
 ---
 ## Page 001 (page_001.jpg)
 
@@ -30,7 +30,7 @@ date: 2025-07-23
 location: Haneda Airport
 topics: [Planning, Freedom, Travel]
 people: [Nadia]
-music: []
+source: original
 ---
 ## Page 002 (page_002.jpg)
 
@@ -58,7 +58,7 @@ date: 2025-07-24
 location: Haneda Airport
 topics: [Forgiveness, Classical Music, Music Storytelling]
 people: [Nadia]
-music: [Beethoven, Mozart, Chopin, Bach]
+source: mixed
 ---
 ## Page 003 (page_003.jpg)
 
@@ -85,7 +85,7 @@ date: 2025-07-24
 location: Haneda Airport
 topics: [Classical Music, Mathematics]
 people: []
-music: [Bach]
+source: mixed
 ---
 ## Page 004 (page_004.jpg)
 
@@ -112,7 +112,7 @@ date: 2025-07-25
 location: Home
 topics: [Stoicism, Control, Desires, Attachments]
 people: [Nadia, Emily]
-music: []
+source: sourced
 ---
 ## Page 005 (page_005.jpg)
 
@@ -210,7 +210,7 @@ date: 2025-07-29
 location: Home
 topics: [Duty, Stoicism, Rationality]
 people: []
-music: []
+source: mixed
 ---
 ## Page 010 (page_010.jpg)
 
@@ -234,7 +234,7 @@ date: 2025-07-29
 location: Home
 topics: [Stoicism, Control, Planning]
 people: []
-music: []
+source: mixed
 ---
 ## Page 011 (page_011.jpg)
 
@@ -270,7 +270,7 @@ date: 2025-07-31
 location: Home
 topics: [Wisdom, Virtue, Eudaimonia]
 people: []
-music: []
+source: sourced
 ---
 ## Page 012 (page_012.jpg)
 
@@ -309,7 +309,7 @@ date: 2025-07-31
 location: Home
 topics: [Philosophy, Meaning, Love, Character]
 people: [Nadia]
-music: []
+source: mixed
 ---
 ## Page 013 (page_013.jpg)
 
@@ -339,7 +339,7 @@ date: 2025-07-31
 location: Home
 topics: [Values, Self-control, Generosity]
 people: []
-music: []
+source: mixed
 ---
 ## Page 014 (page_014.jpg)
 
@@ -376,7 +376,7 @@ date: 2025-08-01
 location: Edmonton
 topics: [Discipline, NFTs, Verification]
 people: [Chris]
-music: []
+source: mixed
 ---
 ## Page 015 (page_015.jpg)
 
@@ -402,7 +402,7 @@ date: 2025-08-04
 location: Edmonton
 topics: [Parenting, Smoking, Habits, Self-knowledge]
 people: [Chris, Emily, Shawn]
-music: []
+source: original
 ---
 ## Page 016 (page_016.jpg)
 
@@ -424,7 +424,7 @@ date: 2025-08-05
 location: Home
 topics: [Socratic Method, Writing, Reflection]
 people: [Paul, Emily]
-music: []
+source: mixed
 ---
 ## Page 017 (page_017.jpg)
 
@@ -444,7 +444,7 @@ date: 2025-08-08
 location: Home
 topics: [Relationships, Productivity, Solitude]
 people: [Nadia, Andrew, Alrashid]
-music: []
+source: original
 ---
 ## Page 018 (page_018.jpg)
 
@@ -462,7 +462,7 @@ date: 2025-08-10
 location: Home
 topics: [Parenting, Dancing, Spontaneity, Virtue]
 people: [Rob Bovice, Nadia]
-music: []
+source: original
 ---
 ## Page 019 (page_019.jpg)
 
@@ -482,7 +482,7 @@ date: 2025-08-11
 location: Home
 topics: [Renovations, Business, Charity]
 people: []
-music: []
+source: original
 ---
 ## Page 020 (page_020.jpg)
 
@@ -510,7 +510,7 @@ date: 2025-08-13
 location: Home
 topics: [Conversations, Socratic Method, Recipes]
 people: [Emily]
-music: []
+source: original
 ---
 ## Page 021 (page_021.jpg)
 
@@ -537,7 +537,7 @@ date: 2025-08-14
 location: Home
 topics: [Debate, Religion, Philosophy, Reflection]
 people: [Shawn, Derek]
-music: []
+source: mixed
 ---
 ## Page 022 (page_022.jpg)
 
@@ -574,7 +574,7 @@ date: 2025-08-14
 location: Home
 topics: [Parenting, Mental Health, Therapy]
 people: [Emily]
-music: []
+source: original
 ---
 ## Page 023 (page_023.jpg)
 
@@ -594,7 +594,7 @@ date: 2025-08-15
 location: Home
 topics: [Socratic Dialogue, General Inquiry, Action]
 people: [Derek]
-music: []
+source: mixed
 ---
 ## Page 024 (page_024.jpg)
 
@@ -614,7 +614,7 @@ date: 2025-08-16
 location: Home
 topics: [Reading List, Self-discipline, Humility]
 people: [Shawn, Nadia]
-music: []
+source: original
 ---
 ## Page 025 (page_025.jpg)
 
@@ -648,7 +648,7 @@ date: 2025-08-17
 location: Home
 topics: [Relationships, Love, Communication]
 people: [Nadia, Emily]
-music: []
+source: original
 ---
 ## Page 026 (page_026.jpg)
 
@@ -668,7 +668,7 @@ date: 2025-08-19
 location: Hospital
 topics: [Perception, Action, Will, Family]
 people: [Pam, Aunt Pearl]
-music: []
+source: mixed
 ---
 ## Page 027 (page_027.jpg)
 
@@ -698,7 +698,7 @@ date: 2025-08-20
 location: Home
 topics: [Patience, Reflection, Sleep]
 people: [Emily, Shawn]
-music: []
+source: original
 ---
 ## Page 028 (page_028.jpg)
 
@@ -716,7 +716,7 @@ date: 2025-08-21
 location: Home
 topics: [Parenting, Mental Health, Confidence, Relationships]
 people: [Emily, Nadia]
-music: []
+source: original
 ---
 ## Page 029 (page_029.jpg)
 
@@ -736,7 +736,7 @@ date: 2025-08-22
 location: Home
 topics: [Debts, Lessons, Self-reflection]
 people: [Andrea, Derek]
-music: []
+source: original
 ---
 ## Page 030 (page_030.jpg)
 
@@ -766,7 +766,7 @@ date: 2025-08-23
 location: Home
 topics: [Reconnecting, Family, Principled Behavior]
 people: [Dwayne, Dan, Shae, Spencer, Kristian]
-music: []
+source: original
 ---
 ## Page 031 (page_031.jpg)
 
@@ -789,7 +789,7 @@ date: 2025-08-24
 location: Home
 topics: [Death, Suffering, Family, Principles]
 people: [Andrea, Derek, Nadia]
-music: []
+source: original
 ---
 ## Page 032 (page_032.jpg)
 
@@ -815,7 +815,7 @@ date: 2025-08-25
 location: Home
 topics: [Learning, Wisdom, Action, Charity]
 people: [Shawn]
-music: []
+source: original
 ---
 ## Page 033 (page_033.jpg)
 
@@ -841,7 +841,7 @@ date: 2025-08-26
 location: Home
 topics: [Friendship, Self-control, Listening]
 people: [Emily, Andreana]
-music: []
+source: original
 ---
 ## Page 034 (page_034.jpg)
 
@@ -864,7 +864,7 @@ date: 2025-08-27
 location: Home
 topics: [Observation, Listening, Moderate Indulgence]
 people: [Steph]
-music: []
+source: original
 ---
 ## Page 035 (page_035.jpg)
 
@@ -886,7 +886,7 @@ date: 2025-08-29
 location: Home
 topics: [Simplicity, Nicomachean Ethics, Standards]
 people: [Areasha]
-music: []
+source: mixed
 ---
 ## Page 036 (page_036.jpg)
 
@@ -910,7 +910,7 @@ date: 2025-09-02
 location: Home
 topics: [Ethics, Habits, Parenting, Mental Health]
 people: [Emily]
-music: []
+source: mixed
 ---
 ## Page 037 (page_037.jpg)
 
@@ -932,7 +932,7 @@ date: 2025-09-03
 location: Home
 topics: [Parenting, Self-doubt, Love, Relationships]
 people: [Emily, Nadia]
-music: []
+source: original
 ---
 ## Page 038 (page_038.jpg)
 
@@ -952,7 +952,7 @@ date: 2025-09-04
 location: Home
 topics: [Journaling, Reflection, Writing]
 people: []
-music: []
+source: original
 ---
 ## Page 039 (page_039.jpg)
 
@@ -971,7 +971,7 @@ date: 2025-09-04
 location: Home
 topics: [Meaning, Depression, Wisdom]
 people: []
-music: []
+source: sourced
 ---
 ## Page 040 (page_040.jpg)
 
@@ -989,7 +989,7 @@ date: 2025-09-04
 location: Home
 topics: [Blind Spots, Mental Health, Perspective]
 people: [Emily, Nadia, Chris]
-music: []
+source: original
 ---
 ## Page 041 (page_041.jpg)
 
@@ -1018,7 +1018,7 @@ date: 2025-09-04
 location: Home
 topics: [Socratic Wisdom, Resolve, Genuine Care]
 people: [Emily]
-music: []
+source: original
 ---
 ## Page 042 (page_042.jpg)
 
@@ -1040,7 +1040,7 @@ date: 2025-09-09
 location: Home
 topics: [Optimism, Meditation, Future]
 people: []
-music: []
+source: mixed
 ---
 ## Page 043 (page_043.jpg)
 
@@ -1060,7 +1060,7 @@ date: 2025-09-09
 location: Home
 topics: [Doctrine of the Mean, Virtues, Anger, Amiability]
 people: []
-music: []
+source: sourced
 ---
 ## Page 044 (page_044.jpg)
 
@@ -1089,7 +1089,7 @@ date: 2025-09-13
 location: Home
 topics: [Living, Renovations, Productivity]
 people: [Nadia]
-music: []
+source: original
 ---
 ## Page 045 (page_045.jpg)
 
@@ -1109,7 +1109,7 @@ date: 2025-09-13
 location: Home
 topics: [Relationships, Friendship, Passion]
 people: [Andrew, Elaine, Carl, Areasha, Steph, Claire, Kristian, Courtney]
-music: []
+source: original
 ---
 ## Page 046 (page_046.jpg)
 
@@ -1127,7 +1127,7 @@ date: 2025-09-14
 location: Home
 topics: [Perspective, Friendliness, Boundaries, Self-discipline]
 people: [Mary-Ann, Ben, Areasha, Aleshia]
-music: []
+source: original
 ---
 ## Page 047 (page_047.jpg)
 
@@ -1149,7 +1149,7 @@ date: 2025-09-17
 location: Home
 topics: [Relationships, Magic, Wealth Schedule, Prudence]
 people: [Mary-Ann]
-music: []
+source: original
 ---
 ## Page 048 (page_048.jpg)
 
@@ -1178,7 +1178,7 @@ date: 2025-09-18
 location: Home
 topics: [Temperance, Discipline, Home Reno]
 people: []
-music: []
+source: original
 ---
 ## Page 049 (page_049.jpg)
 
@@ -1201,7 +1201,7 @@ date: 2025-09-19
 location: Home
 topics: [Discipline, Indulgence, Friendship, Boundaries]
 people: [Emily, Areasha]
-music: []
+source: original
 ---
 ## Page 050 (page_050.jpg)
 
@@ -1224,7 +1224,7 @@ date: 2025-09-20
 location: Home
 topics: [Social Indulgence, Parenting, Life, Time]
 people: [Emily]
-music: []
+source: original
 ---
 ## Page 051 (page_051.jpg)
 
@@ -1247,7 +1247,7 @@ date: 2025-09-21
 location: Home
 topics: [Society, Ethics, Logical Argument, Virtue]
 people: [Mary-Ann]
-music: []
+source: mixed
 ---
 ## Page 052 (page_052.jpg)
 
@@ -1269,7 +1269,7 @@ date: 2025-09-24
 location: Home
 topics: [Socratic Inquiry, Stoic Principles, Charity]
 people: [Mary-Ann]
-music: []
+source: mixed
 ---
 ## Page 053 (page_053.jpg)
 
@@ -1288,7 +1288,7 @@ date: 2025-10-01
 location: Tokyo
 topics: [Travel, Friendship, Love]
 people: [Nadia, Emily, Amanda, Emma, Tess]
-music: []
+source: original
 ---
 ## Page 054 (page_054.jpg)
 
@@ -1306,7 +1306,7 @@ date: 2025-10-02
 location: Tokyo
 topics: [Kant, Pure Reason, Travel, Expectations]
 people: [Nadia]
-music: []
+source: mixed
 ---
 ## Page 055 (page_055.jpg)
 
@@ -1328,7 +1328,7 @@ date: 2025-10-05
 location: Tokyo
 topics: [Routine, Gym, Stoicism, Mindfulness]
 people: [Nadia]
-music: []
+source: original
 ---
 ## Page 056 (page_056.jpg)
 
@@ -1352,7 +1352,7 @@ date: 2025-10-06
 location: Yatsugatake
 topics: [Love, Travel, Hiking]
 people: [Nadia, Satoshi, Helen]
-music: []
+source: original
 ---
 ## Page 057 (page_057.jpg)
 
@@ -1376,7 +1376,7 @@ date: 2025-10-12
 location: Yatsugatake
 topics: [Travel, People, Motivation, Exercise]
 people: [Masa, Nadia]
-music: []
+source: original
 ---
 ## Page 058 (page_058.jpg)
 
@@ -1400,7 +1400,7 @@ date: 2025-10-16
 location: Tokyo
 topics: [Long-term Goals, Routines, Health, Anxiety]
 people: [Nadia, Emily, Helen]
-music: []
+source: original
 ---
 ## Page 059 (page_059.jpg)
 
@@ -1422,7 +1422,7 @@ date: 2025-10-17
 location: Tokyo
 topics: [Mental Health, Support, Conversation, Spontaneity]
 people: [Emily, Pam, Nadia]
-music: []
+source: original
 ---
 ## Page 060 (page_060.jpg)
 
@@ -1444,7 +1444,7 @@ date: 2025-10-18
 location: Tokyo
 topics: [Relationships, Kindness, Gym, Journaling]
 people: [Nadia, Emily]
-music: []
+source: original
 ---
 ## Page 061 (page_061.jpg)
 
@@ -1468,7 +1468,7 @@ date: 2025-10-22
 location: Nagoya
 topics: [Kant, Transcendental Idealism, Space and Time]
 people: []
-music: []
+source: sourced
 ---
 ## Page 062 (page_062.jpg)
 
@@ -1500,7 +1500,7 @@ date: 2025-10-22
 location: Nagoya
 topics: [Transcendental Idealism, Quantum Observance, Epistemology]
 people: []
-music: []
+source: mixed
 ---
 ## Page 063 (page_063.jpg)
 
@@ -1537,7 +1537,7 @@ date: 2025-10-23
 location: Kyoto
 topics: [Solo Trip, Shrines, Temples, Identity]
 people: [Nadia, Satoshi, Jun]
-music: []
+source: original
 ---
 ## Page 064 (page_064.jpg)
 
@@ -1561,7 +1561,7 @@ date: 2025-10-28
 location: Nagoya
 topics: [Initiative, Habits, Roles, Teaching]
 people: [Taiki, Yuichi, Satoshi, Yuki]
-music: []
+source: original
 ---
 ## Page 065 (page_065.jpg)
 
@@ -1582,7 +1582,7 @@ date: 2025-10-28
 location: Nagoya
 topics: [Relationships, Parenting, Fatherhood, Openness]
 people: [Nadia]
-music: []
+source: original
 ---
 ## Page 066 (page_066.jpg)
 
@@ -1604,7 +1604,7 @@ date: 2025-10-29
 location: Nagoya
 topics: [Childhood, Labeling, High School, Travel]
 people: [Yuki]
-music: []
+source: original
 ---
 ## Page 067 (page_067.jpg)
 
@@ -1630,7 +1630,7 @@ date: 2025-10-29
 location: Nagoya
 topics: [Kant, Synthesis, Epistemic Humility, Self-portrait]
 people: [Shawn]
-music: []
+source: mixed
 ---
 ## Page 068 (page_068.jpg)
 
@@ -1655,7 +1655,7 @@ date: 2025-10-31
 location: Nagoya
 topics: [Rappers, Secrets, Openness, Relationships]
 people: [Nadia, Emily]
-music: []
+source: original
 ---
 ## Page 069 (page_069.jpg)
 
@@ -1686,7 +1686,7 @@ date: 2025-11-03
 location: Nagoya
 topics: [Frugality, Idealism, Negativity, Self-insecurity]
 people: [Emily, Pam, Nadia]
-music: []
+source: original
 ---
 ## Page 070 (page_070.jpg)
 
@@ -1706,7 +1706,7 @@ date: 2025-11-04
 location: Nagoya
 topics: [Uniqueness, Positivity, Childhood, Playfulness]
 people: [Pam, Andrea, Emily]
-music: []
+source: original
 ---
 ## Page 071 (page_071.jpg)
 
@@ -1729,7 +1729,7 @@ date: 2025-11-05
 location: Nagoya
 topics: [Sensible Intuition, Categories, Kant]
 people: []
-music: []
+source: sourced
 ---
 ## Page 072 (page_072.jpg)
 
@@ -1756,7 +1756,7 @@ date: 2025-11-06
 location: Nagoya
 topics: [Selective Disclosure, Dating, Honesty, Socratic Method]
 people: [Nadia]
-music: []
+source: original
 ---
 ## Page 073 (page_073.jpg)
 
@@ -1779,7 +1779,7 @@ date: 2025-11-11
 location: Nagoya
 topics: [Attention, Humility, Authenticity, Smartness]
 people: [Shawn]
-music: []
+source: original
 ---
 ## Page 074 (page_074.jpg)
 
@@ -1798,7 +1798,7 @@ date: 2025-11-12
 location: Nagoya
 topics: [Personal Growth, Creativity, Business Ideas]
 people: []
-music: []
+source: original
 ---
 ## Page 075 (page_075.jpg)
 
@@ -1823,7 +1823,7 @@ date: 2025-11-13
 location: Hamilton
 topics: [Birthday, Parenting, Acceptance, Family]
 people: [Cynthia, Pearl]
-music: []
+source: original
 ---
 ## Page 076 (page_076.jpg)
 
@@ -1843,7 +1843,7 @@ date: 2025-11-13
 location: Hamilton
 topics: [Family, Support, Sharpness, Lessons]
 people: [Emily, Pam]
-music: []
+source: original
 ---
 ## Page 077 (page_077.jpg)
 

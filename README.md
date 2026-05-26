@@ -75,7 +75,7 @@ date: 2025-07-22
 location: Home
 topics: [Expression, Will, Self-discipline]
 people: [Emily, Pam, Nadia]
-music: []
+source: original
 ---
 ```
 
@@ -93,9 +93,9 @@ You can use the standalone compiler (`scripts/compile_book.py`) to instantly sea
   ```bash
   python3 scripts/compile_book.py --start-date 2025-07-01 --end-date 2025-08-31 --output output/summer_2025.md
   ```
-- **Compile comments regarding a musical composer**:
+- **Compile only entries of a specific originality/source type (e.g., original thoughts)**:
   ```bash
-  python3 scripts/compile_book.py --music Beethoven --output output/beethoven_reflections.md
+  python3 scripts/compile_book.py --source original --output output/original_thoughts.md
   ```
 
 *This compiler dynamically parses all `*_cleaned_ocr.md` files in the `data/` directory, extracts matches, and builds a compiled Markdown document with a formatted title, table of contents, meta-data blockquotes, and chronological text.*

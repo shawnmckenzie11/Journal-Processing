@@ -86,10 +86,13 @@ def filter_pages(pages, args):
             if args.person.lower() not in people:
                 continue
                 
-        # Filter by Music Composer
-        if args.music:
-            composers = [m.lower() for m in meta.get('music', [])]
-            if args.music.lower() not in composers:
+        # Filter by Source Type (original, sourced, mixed)
+        if args.source:
+            source_type = meta.get('source', '')
+            if isinstance(source_type, str):
+                if args.source.lower() != source_type.lower():
+                    continue
+            else:
                 continue
 
         # Filter by Date Range
@@ -138,8 +141,8 @@ def main():
         help="Filter entries by a key person (e.g. Emily, Nadia, Pam)."
     )
     parser.add_argument(
-        "-m", "--music", 
-        help="Filter entries by a music composer (e.g. Beethoven, Bach)."
+        "--source", 
+        help="Filter entries by originality/source type (original, sourced, mixed)."
     )
     parser.add_argument(
         "-s", "--start-date", 
@@ -223,7 +226,7 @@ def main():
         criteria = []
         if args.topic: criteria.append(f"**Topic**: {args.topic}")
         if args.person: criteria.append(f"**Person**: {args.person}")
-        if args.music: criteria.append(f"**Music**: {args.music}")
+        if args.source: criteria.append(f"**Source**: {args.source}")
         if args.start_date or args.end_date:
             dates = f"{args.start_date or 'Beginning'} to {args.end_date or 'End'}"
             criteria.append(f"**Date Range**: {dates}")
@@ -261,7 +264,7 @@ def main():
             metadata_lines = []
             if meta.get('topics'): metadata_lines.append(f"**Topics**: {', '.join(meta['topics'])}")
             if meta.get('people'): metadata_lines.append(f"**People**: {', '.join(meta['people'])}")
-            if meta.get('music'): metadata_lines.append(f"**Music**: {', '.join(meta['music'])}")
+            if meta.get('source'): metadata_lines.append(f"**Source**: {meta['source']}")
             if meta.get('location'): metadata_lines.append(f"**Location**: {meta['location']}")
             
             if metadata_lines:
